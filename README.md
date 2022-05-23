@@ -10,7 +10,7 @@ Further reading on: https://en.wikipedia.org/wiki/MurmurHash
 
 # How to install?
 <pre>
-git clone https://github.com/Viralmaniar/MurMurHash.git
+git clone https://github.com/kishanbhashyam/MurMurHash.git
 cd MurMurHash
 pip install -r requirements.txt
 python MurMurHash.py
